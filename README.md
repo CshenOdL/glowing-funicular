@@ -34,12 +34,3 @@ You can use any statistics platform of your choosing that is based on client Jav
 
 You can use any of the functions for load and click defined by the LinkFree template's JavaScript file, or you can add code snippets to the Head or Body of the HTML file.
 
-## How to contribute?
-
-There are three ways you can contribute. You can make changes to the core LinkFree project, create new LinkFree templates or just share your LinkFree.
-
-### Creating Templates
-
-A new template is a general LinkFree that has a distinctive structure or style when compared to previous templates.
-
-To submit one, you just have to make a pull request with your addition in the "Templates" directory.
